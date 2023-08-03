@@ -1,0 +1,19 @@
+# Arquivos de configuração do editor
+.vscode/
+.idea/
+*.sublime-project
+*.sublime-workspace
+
+# Node.js
+node_modules/
+dist/
+
+# Arquivos gerados pelo TypeScript
+*.js
+*.js.map
+
+# Arquivos de log
+logs/
+
+# Arquivo de ambiente
+.env
